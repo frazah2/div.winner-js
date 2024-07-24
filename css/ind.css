@@ -1,0 +1,13 @@
+.show{
+    border: 2px solid black;
+    width: 150px;
+    height: 300px;
+    float: left;
+    margin: 15px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
